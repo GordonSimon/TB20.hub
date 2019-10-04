@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<configuration>
+  <connectionStrings>      
+      <add name="oneBMSV2" connectionString="Data Source=rbhfaokqbq.database.windows.net;Initial Catalog=db_282d4ac1_3b5b_447f_8627_1f7a3a8ba884;Persist Security Info=True;User ID=db_282d4ac1_3b5b_447f_8627_1f7a3a8ba884_ExternalWriter;Password=jkL%t^KArpECVZ6"/>
+      <add name="oldBMSV2" connectionString="Data Source=sql.cruise-connections.com;Initial Catalog=gRCUsersSQL;Persist Security Info=True;User ID=sa;Password=comp@q2000"/>
+  </connectionStrings>
+</configuration>

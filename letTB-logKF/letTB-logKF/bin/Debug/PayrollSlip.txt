@@ -1,0 +1,54 @@
+
+
+
+
+EmpId  Employee Name       Log Date   Paycode     Actual Strght  OT2  OT1
+------ ------------------- ---------- ----------- ------ ------ ---- ----
+WJ1701 WILLIAMS, Jason     5/1/2018   Salary           8      8          
+WJ1701 WILLIAMS, Jason     5/2/2018   Salary           8      8          
+WJ1701 WILLIAMS, Jason     5/3/2018   Salary           8      8          
+WJ1701 WILLIAMS, Jason     5/7/2018   Salary           8      8          
+WJ1701 WILLIAMS, Jason     5/8/2018   Salary           8      8          
+WJ1701 WILLIAMS, Jason     5/9/2018   Salary           8      8          
+WJ1701 WILLIAMS, Jason     5/10/2018  Salary           8      8          
+WJ1701 WILLIAMS, Jason     5/15/2018  HN/M            13     12    1     
+WJ1701 WILLIAMS, Jason     5/16/2018  HN/M            12     12          
+WJ1701 WILLIAMS, Jason     5/17/2018  HN/M            12     12          
+WJ1701 WILLIAMS, Jason     5/18/2018  HN/M             6      6          
+WJ1701 WILLIAMS, Jason     5/14/2018  HN/M             6      6          
+WJ1701 WILLIAMS, Jason     5/28/2018  Salary           8      8          
+WJ1701 WILLIAMS, Jason     5/29/2018  Salary           8      8          
+WJ1701 WILLIAMS, Jason     5/30/2018  Salary           8      8          
+WJ1701 WILLIAMS, Jason     5/31/2018  Salary           8      8          
+WJ1701 WILLIAMS, Jason     5/20/2018  HN/M            13     12    1     
+WJ1701 WILLIAMS, Jason     5/22/2018  HN/M            12     12          
+WJ1701 WILLIAMS, Jason     5/26/2018  HN/M            12     12          
+WJ1701 WILLIAMS, Jason     5/25/2018  HN/M            12     12          
+WJ1701 WILLIAMS, Jason     5/24/2018  HN/M            12     12          
+WJ1701 WILLIAMS, Jason     5/23/2018  HN/M            12     12          
+WJ1701 WILLIAMS, Jason     5/21/2018  HN/M            12     12          
+                                                  ====== ====== ==== ====
+                                                     222    220    2     
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,9 @@
+C:\GitHub\TUGU.hub\mdlAnnal\plgStaff\bin\Release\plgStaff.dll
+C:\GitHub\TUGU.hub\mdlAnnal\plgStaff\bin\Release\plgStaff.pdb
+C:\GitHub\TUGU.hub\mdlAnnal\plgStaff\bin\Release\GarNet.exe
+C:\GitHub\TUGU.hub\mdlAnnal\plgStaff\bin\Release\GarNet.pdb
+C:\GitHub\TUGU.hub\mdlAnnal\plgStaff\obj\Release\plgStaff.csprojResolveAssemblyReference.cache
+C:\GitHub\TUGU.hub\mdlAnnal\plgStaff\obj\Release\plgStaff.Properties.Resources.resources
+C:\GitHub\TUGU.hub\mdlAnnal\plgStaff\obj\Release\plgStaff.csproj.GenerateResource.Cache
+C:\GitHub\TUGU.hub\mdlAnnal\plgStaff\obj\Release\plgStaff.dll
+C:\GitHub\TUGU.hub\mdlAnnal\plgStaff\obj\Release\plgStaff.pdb

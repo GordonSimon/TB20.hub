@@ -1,0 +1,16 @@
+C:\data\grc2ke.dev\letAllyKE\partAllyKE\bin\Debug\partAllyKE.dll
+C:\data\grc2ke.dev\letAllyKE\partAllyKE\bin\Debug\partAllyKE.pdb
+C:\data\grc2ke.dev\letAllyKE\partAllyKE\obj\Debug\partAllyKE.dll
+C:\data\grc2ke.dev\letAllyKE\partAllyKE\obj\Debug\partAllyKE.pdb
+C:\Users\gsimon\Desktop\GitHub\letAllyKE\partAllyKE\bin\Debug\partAllyKE.dll
+C:\Users\gsimon\Desktop\GitHub\letAllyKE\partAllyKE\bin\Debug\partAllyKE.pdb
+C:\Users\gsimon\Desktop\GitHub\letAllyKE\partAllyKE\obj\Debug\partAllyKE.dll
+C:\Users\gsimon\Desktop\GitHub\letAllyKE\partAllyKE\obj\Debug\partAllyKE.pdb
+C:\Users\gsimon\Desktop\GitHub\LETS.sky\letAllyKE\partAllyKE\bin\Debug\partAllyKE.dll
+C:\Users\gsimon\Desktop\GitHub\LETS.sky\letAllyKE\partAllyKE\bin\Debug\partAllyKE.pdb
+C:\Users\gsimon\Desktop\GitHub\LETS.sky\letAllyKE\partAllyKE\obj\Debug\partAllyKE.dll
+C:\Users\gsimon\Desktop\GitHub\LETS.sky\letAllyKE\partAllyKE\obj\Debug\partAllyKE.pdb
+C:\GitHub\LETS.sky\letAllyKE\partAllyKE\bin\Debug\partAllyKE.dll
+C:\GitHub\LETS.sky\letAllyKE\partAllyKE\bin\Debug\partAllyKE.pdb
+C:\GitHub\LETS.sky\letAllyKE\partAllyKE\obj\Debug\partAllyKE.dll
+C:\GitHub\LETS.sky\letAllyKE\partAllyKE\obj\Debug\partAllyKE.pdb

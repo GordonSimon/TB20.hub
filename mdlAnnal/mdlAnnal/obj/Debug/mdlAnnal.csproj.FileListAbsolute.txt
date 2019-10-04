@@ -1,0 +1,5 @@
+C:\GitHub\TUGU.hub\mdlAnnal\mdlAnnal\bin\Debug\mdlAnnal.dll
+C:\GitHub\TUGU.hub\mdlAnnal\mdlAnnal\bin\Debug\mdlAnnal.pdb
+C:\GitHub\TUGU.hub\mdlAnnal\mdlAnnal\obj\Debug\mdlAnnal.dll
+C:\GitHub\TUGU.hub\mdlAnnal\mdlAnnal\obj\Debug\mdlAnnal.pdb
+C:\GitHub\TUGU.hub\mdlAnnal\mdlAnnal\obj\Debug\mdlAnnal.csprojResolveAssemblyReference.cache

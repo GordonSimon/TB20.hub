@@ -1,0 +1,9 @@
+C:\GitHub\LETS.sky\letAllyKE\plgAllyKE\obj\Debug\plgAllyKE.csprojResolveAssemblyReference.cache
+C:\GitHub\LETS.sky\letAllyKE\plgAllyKE\obj\Debug\plgAllyKE.Properties.Resources.resources
+C:\GitHub\LETS.sky\letAllyKE\plgAllyKE\obj\Debug\plgAllyKE.csproj.GenerateResource.Cache
+C:\GitHub\LETS.sky\letAllyKE\plgAllyKE\bin\Debug\plgAllyKE.dll
+C:\GitHub\LETS.sky\letAllyKE\plgAllyKE\bin\Debug\plgAllyKE.pdb
+C:\GitHub\LETS.sky\letAllyKE\plgAllyKE\bin\Debug\GarNet.exe
+C:\GitHub\LETS.sky\letAllyKE\plgAllyKE\bin\Debug\GarNet.pdb
+C:\GitHub\LETS.sky\letAllyKE\plgAllyKE\obj\Debug\plgAllyKE.dll
+C:\GitHub\LETS.sky\letAllyKE\plgAllyKE\obj\Debug\plgAllyKE.pdb

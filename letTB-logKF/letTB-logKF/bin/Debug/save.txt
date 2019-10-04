@@ -1,0 +1,5 @@
+EmpId  Employee Name               Log Date   Ship   Actual Strght    OT2
+------ --------------------------- ---------- ------ ------ ------ ------
+CD0501 CONNOLLY, David             4/6/2016   RAS  S     12     12       
+                                                     ====== ====== ======
+                                                         12     12       

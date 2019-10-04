@@ -1,0 +1,99 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<asmv1:assembly xsi:schemaLocation="urn:schemas-microsoft-com:asm.v1 assembly.adaptive.xsd" manifestVersion="1.0" xmlns:asmv1="urn:schemas-microsoft-com:asm.v1" xmlns="urn:schemas-microsoft-com:asm.v2" xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:co.v1="urn:schemas-microsoft-com:clickonce.v1" xmlns:asmv3="urn:schemas-microsoft-com:asm.v3" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns:co.v2="urn:schemas-microsoft-com:clickonce.v2">
+  <asmv1:assemblyIdentity name="letAllyKE.exe" version="1.0.0.0" publicKeyToken="46f1debf045f2d25" language="neutral" processorArchitecture="x86" type="win32" />
+  <description asmv2:iconFile="player_time.ico" xmlns="urn:schemas-microsoft-com:asm.v1" />
+  <application />
+  <entryPoint>
+    <assemblyIdentity name="letAllyKE" version="1.0.0.0" language="neutral" processorArchitecture="x86" />
+    <commandLine file="letAllyKE.exe" parameters="" />
+  </entryPoint>
+  <trustInfo>
+    <security>
+      <applicationRequestMinimum>
+        <PermissionSet Unrestricted="true" ID="Custom" SameSite="site" />
+        <defaultAssemblyRequest permissionSetReference="Custom" />
+      </applicationRequestMinimum>
+      <requestedPrivileges xmlns="urn:schemas-microsoft-com:asm.v3">
+        <!--
+          UAC Manifest Options
+          If you want to change the Windows User Account Control level replace the 
+          requestedExecutionLevel node with one of the following.
+
+        <requestedExecutionLevel  level="asInvoker" uiAccess="false" />
+        <requestedExecutionLevel  level="requireAdministrator" uiAccess="false" />
+        <requestedExecutionLevel  level="highestAvailable" uiAccess="false" />
+
+         If you want to utilize File and Registry Virtualization for backward 
+         compatibility then delete the requestedExecutionLevel node.
+    -->
+        <requestedExecutionLevel level="asInvoker" uiAccess="false" />
+      </requestedPrivileges>
+    </security>
+  </trustInfo>
+  <dependency>
+    <dependentOS>
+      <osVersionInfo>
+        <os majorVersion="5" minorVersion="1" buildNumber="2600" servicePackMajor="0" />
+      </osVersionInfo>
+    </dependentOS>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="Microsoft.Windows.CommonLanguageRuntime" version="4.0.30319.0" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="letAllyKE.exe" size="75264">
+      <assemblyIdentity name="letAllyKE" version="1.0.0.0" language="neutral" processorArchitecture="x86" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+        <dsig:DigestValue>Y/NBtm59uHltpo+szDHGeBb7zM0=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="mdlAllyKE.dll" size="37376">
+      <assemblyIdentity name="mdlAllyKE" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+        <dsig:DigestValue>prbpJlzv5aSDQdewNlCo7GKz68U=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="viewAllyKE.dll" size="319488">
+      <assemblyIdentity name="viewAllyKE" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+        <dsig:DigestValue>yVzlUHdj1El2OIfyzU2AXpXVanQ=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <file name="letAllyKE.exe.config" size="568">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>HFDBQohpZ+7Gz+dADkd+R4rsrDQ=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="player_time.ico" size="67646">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>8G54fkZabuCj2rCIcg79ii83+nU=</dsig:DigestValue>
+    </hash>
+  </file>
+<publisherIdentity name="CN=costco-PC\costco" issuerKeyHash="b3d4d07cec524d9176ea0bee6c4750ba749e0e6e" /><Signature Id="StrongNameSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" /><DigestValue>D0CViYnO0klEU+u0G8JGE6ojsUg=</DigestValue></Reference></SignedInfo><SignatureValue>s/vAlhFSNdVFLJrjxm2sCbSyr9bgwMVjYYEJBqqvUvaMKYye7u9V8OysL3Dcsp/i+MRBmNlpaYud+LF48yZ/HTHFI8wZ+EdXx0PmkPBR+HKMaOWyF5jIJ8clZCZUSJU+cHi0lbhtb+JHFpYIaqDMoLvIeilDBa3Mp0cAjgfrAjg=</SignatureValue><KeyInfo Id="StrongNameKeyInfo"><KeyValue><RSAKeyValue><Modulus>tfQqRaBtS1lxjDH7rlo6pDcvXpSov6BAd0grAwZvv4o/B7ItSbqsOlnleYzIM0NecTVDMBcWOIXoe7aeRBV5Kkb+dVhLOCQMoBQmYzYAkrRHjxS+S8birIjxG836Fi+jAXxlCEUs5UiXqtpUnjc8vbRxGaSXI3pquk91xRdwoz0=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><msrel:RelData xmlns:msrel="http://schemas.microsoft.com/windows/rel/2005/reldata"><r:license xmlns:r="urn:mpeg:mpeg21:2003:01-REL-R-NS" xmlns:as="http://schemas.microsoft.com/windows/pki/2005/Authenticode"><r:grant><as:ManifestInformation Hash="48b123aa1346c21bb4eb534449d2ce898995400f" Description="" Url=""><as:assemblyIdentity name="letAllyKE.exe" version="1.0.0.0" publicKeyToken="46f1debf045f2d25" language="neutral" processorArchitecture="x86" type="win32" /></as:ManifestInformation><as:SignedBy /><as:AuthenticodePublisher><as:X509SubjectName>CN=costco-PC\costco</as:X509SubjectName></as:AuthenticodePublisher></r:grant><r:issuer><Signature Id="AuthenticodeSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" /><DigestValue>7uQ4oZ7KN+L3y7+VUoH61xm4GKk=</DigestValue></Reference></SignedInfo><SignatureValue>AE60OcuMeySjHO7E791k4gi6G/4bg//RNKcIWrh005W31XiAtXjC2Yq2bbJK/+wJRn73xinH6OExS1SVYsjHzUspt+4HdnXQI5HCVv57qH6oBwtFI4hYv8vnZ+SU97Mzvny6gbwz8PmYzxBnKUOv6XZoFHmmm2IGTmEfxTTvw1I=</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>tfQqRaBtS1lxjDH7rlo6pDcvXpSov6BAd0grAwZvv4o/B7ItSbqsOlnleYzIM0NecTVDMBcWOIXoe7aeRBV5Kkb+dVhLOCQMoBQmYzYAkrRHjxS+S8birIjxG836Fi+jAXxlCEUs5UiXqtpUnjc8vbRxGaSXI3pquk91xRdwoz0=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><X509Data><X509Certificate>MIIB2TCCAUKgAwIBAgIQNpqdijaUn5xAyaIdOXrB2DANBgkqhkiG9w0BAQUFADArMSkwJwYDVQQDHiAAYwBvAHMAdABjAG8ALQBQAEMAXABjAG8AcwB0AGMAbzAeFw0xNDA5MjQxNTExMjRaFw0xNTA5MjQyMTExMjRaMCsxKTAnBgNVBAMeIABjAG8AcwB0AGMAbwAtAFAAQwBcAGMAbwBzAHQAYwBvMIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQC19CpFoG1LWXGMMfuuWjqkNy9elKi/oEB3SCsDBm+/ij8Hsi1Juqw6WeV5jMgzQ15xNUMwFxY4heh7tp5EFXkqRv51WEs4JAygFCZjNgCStEePFL5LxuKsiPEbzfoWL6MBfGUIRSzlSJeq2lSeNzy9tHEZpJcjemq6T3XFF3CjPQIDAQABMA0GCSqGSIb3DQEBBQUAA4GBAH00/MdVyRMRhkNSmHbT3nQgqTGTjc9Z799f1vZbF/+5HcIi+dVqzgv8aaGHQeia1UJN0vaFp7XEifDKieSbv9VjeS7XQzd8LQJm9upB8pDovV6ExrVLGlk69INRZSmdaZspd4Z0eRAAts754EE9uY2We9Nw5aniMSJ9PA2bJlca</X509Certificate></X509Data></KeyInfo></Signature></r:issuer></r:license></msrel:RelData></KeyInfo></Signature></asmv1:assembly>

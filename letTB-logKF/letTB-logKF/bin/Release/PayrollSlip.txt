@@ -1,0 +1,264 @@
+
+
+
+
+EmpId  Employee Name               Log Date   Ship   Actual Strght    OT2
+------ --------------------------- ---------- ------ ------ ------ ------
+CD0501 CONNOLLY, David             4/7/2016   RAS  S   12.5     12     .5
+                                                     ====== ====== ======
+                                                       12.5     12     .5
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+EmpId  Employee Name               Log Date   Ship   Actual Strght    OT2
+------ --------------------------- ---------- ------ ------ ------ ------
+CJ9501 CONNON, James               4/7/2016   RS   S   13.5     12    1.5
+                                                     ====== ====== ======
+                                                       13.5     12    1.5
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+EmpId  Employee Name               Log Date   Ship   Actual Strght    OT2
+------ --------------------------- ---------- ------ ------ ------ ------
+CM1201 CURRY, Michael              4/7/2016   HK   S   13.5     12    1.5
+                                                     ====== ====== ======
+                                                       13.5     12    1.5
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+EmpId  Employee Name               Log Date   Ship   Actual Strght    OT2
+------ --------------------------- ---------- ------ ------ ------ ------
+DS1401 DOANE, Steve                4/7/2016   HK   S     12     12       
+                                                     ====== ====== ======
+                                                         12     12       
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+EmpId  Employee Name               Log Date   Ship   Actual Strght    OT2
+------ --------------------------- ---------- ------ ------ ------ ------
+GT1401 GUDBRANSON, Treg            4/7/2016   RS   D   13.5     12    1.5
+                                                     ====== ====== ======
+                                                       13.5     12    1.5
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+EmpId  Employee Name               Log Date   Ship   Actual Strght    OT2
+------ --------------------------- ---------- ------ ------ ------ ------
+HR1201 HIRT, Ryan                  4/7/2016   HK   D   13.5     12    1.5
+                                                     ====== ====== ======
+                                                       13.5     12    1.5
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+EmpId  Employee Name               Log Date   Ship   Actual Strght    OT2
+------ --------------------------- ---------- ------ ------ ------ ------
+JE1201 JOHANSON, Eric              4/7/2016   RAS  D   12.5     12     .5
+                                                     ====== ====== ======
+                                                       12.5     12     .5
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+EmpId  Employee Name               Log Date   Ship   Actual Strght    OT2
+------ --------------------------- ---------- ------ ------ ------ ------
+JJ1301 JONES, Jason                4/7/2016   HK   D     12     12       
+                                                     ====== ====== ======
+                                                         12     12       
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+EmpId  Employee Name               Log Date   Ship   Actual Strght    OT2
+------ --------------------------- ---------- ------ ------ ------ ------
+MD8201 MCPHAIL, Douglas            4/7/2016   RAS  S     12     12       
+                                                     ====== ====== ======
+                                                         12     12       
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+EmpId  Employee Name               Log Date   Ship   Actual Strght    OT2
+------ --------------------------- ---------- ------ ------ ------ ------
+ME1301 MORRISON, Erik              4/7/2016   RAS  D     12     12       
+                                                     ====== ====== ======
+                                                         12     12       
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+EmpId  Employee Name               Log Date   Ship   Actual Strght    OT2
+------ --------------------------- ---------- ------ ------ ------ ------
+RS9401 RAWLINGS, Stewart           4/7/2016   RS   S     12     12       
+                                                     ====== ====== ======
+                                                         12     12       
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

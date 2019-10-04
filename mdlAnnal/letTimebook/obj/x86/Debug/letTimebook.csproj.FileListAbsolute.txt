@@ -1,0 +1,11 @@
+C:\GitHub\TUGU.hub\mdlAnnal\letTimebook\obj\x86\Debug\letTimebook.csprojResolveAssemblyReference.cache
+C:\GitHub\TUGU.hub\mdlAnnal\letTimebook\obj\x86\Debug\letTimebook.frmMain.resources
+C:\GitHub\TUGU.hub\mdlAnnal\letTimebook\obj\x86\Debug\letTimebook.Properties.Resources.resources
+C:\GitHub\TUGU.hub\mdlAnnal\letTimebook\obj\x86\Debug\letTimebook.csproj.GenerateResource.Cache
+C:\GitHub\TUGU.hub\mdlAnnal\letTimebook\bin\Debug\letTimebook.exe.config
+C:\GitHub\TUGU.hub\mdlAnnal\letTimebook\bin\Debug\letTimebook.exe
+C:\GitHub\TUGU.hub\mdlAnnal\letTimebook\bin\Debug\letTimebook.pdb
+C:\GitHub\TUGU.hub\mdlAnnal\letTimebook\bin\Debug\mdlAnnal.dll
+C:\GitHub\TUGU.hub\mdlAnnal\letTimebook\bin\Debug\mdlAnnal.pdb
+C:\GitHub\TUGU.hub\mdlAnnal\letTimebook\obj\x86\Debug\letTimebook.exe
+C:\GitHub\TUGU.hub\mdlAnnal\letTimebook\obj\x86\Debug\letTimebook.pdb

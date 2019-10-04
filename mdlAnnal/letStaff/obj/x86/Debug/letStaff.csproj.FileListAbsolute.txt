@@ -1,0 +1,15 @@
+C:\GitHub\TUGU.hub\mdlAnnal\letStaff\bin\Debug\letStaff.exe
+C:\GitHub\TUGU.hub\mdlAnnal\letStaff\bin\Debug\letStaff.pdb
+C:\GitHub\TUGU.hub\mdlAnnal\letStaff\bin\Debug\mdlAnnal.dll
+C:\GitHub\TUGU.hub\mdlAnnal\letStaff\bin\Debug\mdlAnnal.pdb
+C:\GitHub\TUGU.hub\mdlAnnal\letStaff\obj\x86\Debug\letStaff.csprojResolveAssemblyReference.cache
+C:\GitHub\TUGU.hub\mdlAnnal\letStaff\obj\x86\Debug\letStaff.frmStaff.resources
+C:\GitHub\TUGU.hub\mdlAnnal\letStaff\obj\x86\Debug\letStaff.Properties.Resources.resources
+C:\GitHub\TUGU.hub\mdlAnnal\letStaff\obj\x86\Debug\letStaff.ucHour.resources
+C:\GitHub\TUGU.hub\mdlAnnal\letStaff\obj\x86\Debug\letStaff.ucNote.resources
+C:\GitHub\TUGU.hub\mdlAnnal\letStaff\obj\x86\Debug\letStaff.ucSalary.resources
+C:\GitHub\TUGU.hub\mdlAnnal\letStaff\obj\x86\Debug\letStaff.csproj.GenerateResource.Cache
+C:\GitHub\TUGU.hub\mdlAnnal\letStaff\obj\x86\Debug\letStaff.exe
+C:\GitHub\TUGU.hub\mdlAnnal\letStaff\obj\x86\Debug\letStaff.pdb
+C:\GitHub\TUGU.hub\mdlAnnal\letStaff\bin\Debug\letStaff.exe.config
+C:\GitHub\TUGU.hub\mdlAnnal\letStaff\obj\x86\Debug\letStaff.ucPaycodes.resources

@@ -1,0 +1,17 @@
+C:\GitHub\LETS.sky\letEmp_KF\plgEmp_KF\bin\Debug\plgEmp_KF.dll
+C:\GitHub\LETS.sky\letEmp_KF\plgEmp_KF\bin\Debug\plgEmp_KF.pdb
+C:\GitHub\LETS.sky\letEmp_KF\plgEmp_KF\bin\Debug\GarNet.exe
+C:\GitHub\LETS.sky\letEmp_KF\plgEmp_KF\obj\Debug\plgEmp_KF.Properties.Resources.resources
+C:\GitHub\LETS.sky\letEmp_KF\plgEmp_KF\obj\Debug\plgEmp_KF.csproj.GenerateResource.Cache
+C:\GitHub\LETS.sky\letEmp_KF\plgEmp_KF\obj\Debug\plgEmp_KF.dll
+C:\GitHub\LETS.sky\letEmp_KF\plgEmp_KF\obj\Debug\plgEmp_KF.pdb
+C:\GitHub\LETS.sky\letEmp_KF\plgEmp_KF\obj\Debug\plgEmp_KF.csprojResolveAssemblyReference.cache
+C:\GitHub\LETS.sky\letEmp_KF\plgEmp_KF\bin\Debug\GarNet.pdb
+C:\GitHub\LETS.sky\TUGIT.lets\letEmp_KF\plgEmp_KF\bin\Debug\plgEmp_KF.dll
+C:\GitHub\LETS.sky\TUGIT.lets\letEmp_KF\plgEmp_KF\bin\Debug\plgEmp_KF.pdb
+C:\GitHub\LETS.sky\TUGIT.lets\letEmp_KF\plgEmp_KF\bin\Debug\GarNet.pdb
+C:\GitHub\LETS.sky\TUGIT.lets\letEmp_KF\plgEmp_KF\obj\Debug\plgEmp_KF.csprojResolveAssemblyReference.cache
+C:\GitHub\LETS.sky\TUGIT.lets\letEmp_KF\plgEmp_KF\obj\Debug\plgEmp_KF.Properties.Resources.resources
+C:\GitHub\LETS.sky\TUGIT.lets\letEmp_KF\plgEmp_KF\obj\Debug\plgEmp_KF.csproj.GenerateResource.Cache
+C:\GitHub\LETS.sky\TUGIT.lets\letEmp_KF\plgEmp_KF\obj\Debug\plgEmp_KF.dll
+C:\GitHub\LETS.sky\TUGIT.lets\letEmp_KF\plgEmp_KF\obj\Debug\plgEmp_KF.pdb

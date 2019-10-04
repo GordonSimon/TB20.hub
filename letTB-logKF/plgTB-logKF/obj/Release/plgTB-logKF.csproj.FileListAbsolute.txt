@@ -1,0 +1,17 @@
+C:\GitHub\LETS.sky\letTB-logKF\plgTB-logKF\bin\Release\plgTB-logKF.dll
+C:\GitHub\LETS.sky\letTB-logKF\plgTB-logKF\bin\Release\plgTB-logKF.pdb
+C:\GitHub\LETS.sky\letTB-logKF\plgTB-logKF\obj\Release\plgTB-logKF.csprojResolveAssemblyReference.cache
+C:\GitHub\LETS.sky\letTB-logKF\plgTB-logKF\obj\Release\plgTB_logKF.Properties.Resources.resources
+C:\GitHub\LETS.sky\letTB-logKF\plgTB-logKF\obj\Release\plgTB-logKF.csproj.GenerateResource.Cache
+C:\GitHub\LETS.sky\letTB-logKF\plgTB-logKF\obj\Release\plgTB-logKF.dll
+C:\GitHub\LETS.sky\letTB-logKF\plgTB-logKF\obj\Release\plgTB-logKF.pdb
+C:\GitHub\LETS.sky\letTB-logKF\plgTB-logKF\bin\Release\GarNet.exe
+C:\GitHub\LETS.sky\letTB-logKF\plgTB-logKF\bin\Release\GarNet.pdb
+C:\GitHub\LETS.sky\TUGIT.lets\letTB-logKF\plgTB-logKF\bin\Release\plgTB-logKF.dll
+C:\GitHub\LETS.sky\TUGIT.lets\letTB-logKF\plgTB-logKF\bin\Release\plgTB-logKF.pdb
+C:\GitHub\LETS.sky\TUGIT.lets\letTB-logKF\plgTB-logKF\bin\Release\GarNet.pdb
+C:\GitHub\LETS.sky\TUGIT.lets\letTB-logKF\plgTB-logKF\obj\Release\plgTB-logKF.csprojResolveAssemblyReference.cache
+C:\GitHub\LETS.sky\TUGIT.lets\letTB-logKF\plgTB-logKF\obj\Release\plgTB_logKF.Properties.Resources.resources
+C:\GitHub\LETS.sky\TUGIT.lets\letTB-logKF\plgTB-logKF\obj\Release\plgTB-logKF.csproj.GenerateResource.Cache
+C:\GitHub\LETS.sky\TUGIT.lets\letTB-logKF\plgTB-logKF\obj\Release\plgTB-logKF.dll
+C:\GitHub\LETS.sky\TUGIT.lets\letTB-logKF\plgTB-logKF\obj\Release\plgTB-logKF.pdb

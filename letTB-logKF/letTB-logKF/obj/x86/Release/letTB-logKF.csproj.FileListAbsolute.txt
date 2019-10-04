@@ -1,0 +1,41 @@
+C:\Users\gsimon\AppData\Local\Temporary Projects\letTB-logKF\bin\Release\letTB-logKF.exe.config
+C:\Users\gsimon\AppData\Local\Temporary Projects\letTB-logKF\bin\Release\letTB-logKF.exe
+C:\Users\gsimon\AppData\Local\Temporary Projects\letTB-logKF\bin\Release\letTB-logKF.pdb
+C:\Users\gsimon\AppData\Local\Temporary Projects\letTB-logKF\obj\x86\Release\letTB_logKF.frmMain.resources
+C:\Users\gsimon\AppData\Local\Temporary Projects\letTB-logKF\obj\x86\Release\letTB_logKF.Properties.Resources.resources
+C:\Users\gsimon\AppData\Local\Temporary Projects\letTB-logKF\obj\x86\Release\letTB-logKF.csproj.GenerateResource.Cache
+C:\Users\gsimon\AppData\Local\Temporary Projects\letTB-logKF\obj\x86\Release\letTB-logKF.exe
+C:\Users\gsimon\AppData\Local\Temporary Projects\letTB-logKF\obj\x86\Release\letTB-logKF.pdb
+C:\Users\gsimon\AppData\Local\Temporary Projects\letTB-logKF\obj\x86\Release\letTB_logKF.ucLog.resources
+C:\Users\gsimon\AppData\Local\Temporary Projects\letTB-logKF\obj\x86\Release\letTB_logKF.ucLog_bu.resources
+C:\Users\gsimon\AppData\Local\Temporary Projects\letTB-logKF\obj\x86\Release\letTB_logKF.ucEmp.resources
+C:\Users\gsimon\AppData\Local\Temporary Projects\letTB-logKF\obj\x86\Release\letTB-logKF.csproj.ResolveComReference.cache
+C:\GitHub\LETS.sky\letTB-logKF\letTB-logKF\bin\Release\letTB-logKF.exe.config
+C:\GitHub\LETS.sky\letTB-logKF\letTB-logKF\obj\x86\Release\letTB-logKF.csproj.ResolveComReference.cache
+C:\GitHub\LETS.sky\letTB-logKF\letTB-logKF\obj\x86\Release\letTB-logKF.exe
+C:\GitHub\LETS.sky\letTB-logKF\letTB-logKF\obj\x86\Release\letTB-logKF.pdb
+C:\GitHub\LETS.sky\letTB-logKF\letTB-logKF\bin\Release\letTB-logKF.exe
+C:\GitHub\LETS.sky\letTB-logKF\letTB-logKF\bin\Release\letTB-logKF.pdb
+C:\GitHub\LETS.sky\letTB-logKF\letTB-logKF\obj\x86\Release\letTB_logKF.ucLog_bu.resources
+C:\GitHub\LETS.sky\letTB-logKF\letTB-logKF\obj\x86\Release\letTB_logKF.frmMain.resources
+C:\GitHub\LETS.sky\letTB-logKF\letTB-logKF\obj\x86\Release\letTB_logKF.Properties.Resources.resources
+C:\GitHub\LETS.sky\letTB-logKF\letTB-logKF\obj\x86\Release\letTB_logKF.ucEmp.resources
+C:\GitHub\LETS.sky\letTB-logKF\letTB-logKF\obj\x86\Release\letTB_logKF.ucLog.resources
+C:\GitHub\LETS.sky\letTB-logKF\letTB-logKF\obj\x86\Release\letTB-logKF.csproj.GenerateResource.Cache
+C:\GitHub\LETS.sky\letTB-logKF\letTB-logKF\obj\x86\Release\letTB_logKF.frmAdd.resources
+C:\GitHub\LETS.sky\TUGIT.lets\letTB-logKF\letTB-logKF\bin\Release\letTB-logKF.exe.config
+C:\GitHub\LETS.sky\TUGIT.lets\letTB-logKF\letTB-logKF\bin\Release\letTB-logKF.exe
+C:\GitHub\LETS.sky\TUGIT.lets\letTB-logKF\letTB-logKF\bin\Release\letTB-logKF.pdb
+C:\GitHub\LETS.sky\TUGIT.lets\letTB-logKF\letTB-logKF\obj\x86\Release\letTB-logKF.csproj.ResolveComReference.cache
+C:\GitHub\LETS.sky\TUGIT.lets\letTB-logKF\letTB-logKF\obj\x86\Release\letTB_logKF.frmAdd.resources
+C:\GitHub\LETS.sky\TUGIT.lets\letTB-logKF\letTB-logKF\obj\x86\Release\letTB_logKF.ucLog_bu.resources
+C:\GitHub\LETS.sky\TUGIT.lets\letTB-logKF\letTB-logKF\obj\x86\Release\letTB_logKF.frmMain.resources
+C:\GitHub\LETS.sky\TUGIT.lets\letTB-logKF\letTB-logKF\obj\x86\Release\letTB_logKF.Properties.Resources.resources
+C:\GitHub\LETS.sky\TUGIT.lets\letTB-logKF\letTB-logKF\obj\x86\Release\letTB_logKF.ucEmp.resources
+C:\GitHub\LETS.sky\TUGIT.lets\letTB-logKF\letTB-logKF\obj\x86\Release\letTB_logKF.ucLog.resources
+C:\GitHub\LETS.sky\TUGIT.lets\letTB-logKF\letTB-logKF\obj\x86\Release\letTB-logKF.csproj.GenerateResource.Cache
+C:\GitHub\LETS.sky\TUGIT.lets\letTB-logKF\letTB-logKF\obj\x86\Release\letTB-logKF.exe
+C:\GitHub\LETS.sky\TUGIT.lets\letTB-logKF\letTB-logKF\obj\x86\Release\letTB-logKF.pdb
+C:\GitHub\_deploy\_HODDER_PAYROLL\letTB-logKF\letTB-logKF.exe.config
+C:\GitHub\_deploy\_HODDER_PAYROLL\letTB-logKF\letTB-logKF.exe
+C:\GitHub\_deploy\_HODDER_PAYROLL\letTB-logKF\letTB-logKF.pdb

@@ -1,0 +1,9 @@
+C:\Users\gsimon\AppData\Local\Temporary Projects\mdlAnnal\bin\Release\mdlAnnal.dll
+C:\Users\gsimon\AppData\Local\Temporary Projects\mdlAnnal\bin\Release\mdlAnnal.pdb
+C:\Users\gsimon\AppData\Local\Temporary Projects\mdlAnnal\obj\Release\mdlAnnal.dll
+C:\Users\gsimon\AppData\Local\Temporary Projects\mdlAnnal\obj\Release\mdlAnnal.pdb
+C:\GitHub\TUGU.hub\mdlAnnal\mdlAnnal\bin\Release\mdlAnnal.dll
+C:\GitHub\TUGU.hub\mdlAnnal\mdlAnnal\bin\Release\mdlAnnal.pdb
+C:\GitHub\TUGU.hub\mdlAnnal\mdlAnnal\obj\Release\mdlAnnal.dll
+C:\GitHub\TUGU.hub\mdlAnnal\mdlAnnal\obj\Release\mdlAnnal.pdb
+C:\GitHub\TUGU.hub\mdlAnnal\mdlAnnal\obj\Release\mdlAnnal.csprojResolveAssemblyReference.cache

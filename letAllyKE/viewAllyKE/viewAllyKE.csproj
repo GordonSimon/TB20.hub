@@ -1,0 +1,376 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{29CCB3B4-CE35-44E3-9F49-BF53DDF0D49E}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>viewAllyKE</RootNamespace>
+    <AssemblyName>viewAllyKE</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.Office.Interop.Excel, Version=14.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+      <HintPath>..\..\..\..\..\..\Windows\assembly\GAC_MSIL\Microsoft.Office.Interop.Excel\14.0.0.0__71e9bce111e9429c\Microsoft.Office.Interop.Excel.dll</HintPath>
+    </Reference>
+    <Reference Include="sysglobl" />
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="frmEmpSum.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmEmpSum.Designer.cs">
+      <DependentUpon>frmEmpSum.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmEmployee.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmEmployee.Designer.cs">
+      <DependentUpon>frmEmployee.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmLog.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmLog.Designer.cs">
+      <DependentUpon>frmLog.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ucSalary.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ucSalary.Designer.cs">
+      <DependentUpon>ucSalary.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmStaff.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmStaff.Designer.cs">
+      <DependentUpon>frmStaff.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ucShfNum.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ucShfNum.Designer.cs">
+      <DependentUpon>ucShfNum.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ucVesNum.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ucVesNum.Designer.cs">
+      <DependentUpon>ucVesNum.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmCache.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmCache.Designer.cs">
+      <DependentUpon>frmCache.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmMain.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmMain.Designer.cs">
+      <DependentUpon>frmMain.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="ucEmpNum.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ucEmpNum.Designer.cs">
+      <DependentUpon>ucEmpNum.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ucHour.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ucHour.Designer.cs">
+      <DependentUpon>ucHour.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmGang.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmGang.Designer.cs">
+      <DependentUpon>frmGang.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmShift.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmShift.Designer.cs">
+      <DependentUpon>frmShift.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmAddBoat.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmAddBoat.Designer.cs">
+      <DependentUpon>frmAddBoat.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmBoats.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmBoats.Designer.cs">
+      <DependentUpon>frmBoats.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ucRptTimbebook.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ucRptTimbebook.Designer.cs">
+      <DependentUpon>ucRptTimbebook.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ucVessel.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ucVessel.Designer.cs">
+      <DependentUpon>ucVessel.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmSched.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmSched.Designer.cs">
+      <DependentUpon>frmSched.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmAlly.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmAlly.Designer.cs">
+      <DependentUpon>frmAlly.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ucNote.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ucNote.Designer.cs">
+      <DependentUpon>ucNote.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ucStat.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ucStat.Designer.cs">
+      <DependentUpon>ucStat.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ucYear.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ucYear.Designer.cs">
+      <DependentUpon>ucYear.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ucHead.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ucHead.Designer.cs">
+      <DependentUpon>ucHead.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ucList.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ucList.Designer.cs">
+      <DependentUpon>ucList.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ucMonth.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ucMonth.Designer.cs">
+      <DependentUpon>ucMonth.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmApp.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmApp.Designer.cs">
+      <DependentUpon>frmApp.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ucAlley.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ucAlley.Designer.cs">
+      <DependentUpon>ucAlley.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ucDays.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ucDays.Designer.cs">
+      <DependentUpon>ucDays.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ucEmp.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ucEmp.Designer.cs">
+      <DependentUpon>ucEmp.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ucNewEmp.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ucNewEmp.Designer.cs">
+      <DependentUpon>ucNewEmp.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ucWeek.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ucWeek.Designer.cs">
+      <DependentUpon>ucWeek.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ucAM.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ucAM.Designer.cs">
+      <DependentUpon>ucAM.cs</DependentUpon>
+    </Compile>
+    <Compile Include="viewAlly.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="frmEmployee.resx">
+      <DependentUpon>frmEmployee.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmEmpSum.resx">
+      <DependentUpon>frmEmpSum.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmLog.resx">
+      <DependentUpon>frmLog.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ucSalary.resx">
+      <DependentUpon>ucSalary.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmStaff.resx">
+      <DependentUpon>frmStaff.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ucShfNum.resx">
+      <DependentUpon>ucShfNum.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ucVesNum.resx">
+      <DependentUpon>ucVesNum.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmCache.resx">
+      <DependentUpon>frmCache.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmMain.resx">
+      <DependentUpon>frmMain.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ucEmpNum.resx">
+      <DependentUpon>ucEmpNum.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ucHour.resx">
+      <DependentUpon>ucHour.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmGang.resx">
+      <DependentUpon>frmGang.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmShift.resx">
+      <DependentUpon>frmShift.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmAddBoat.resx">
+      <DependentUpon>frmAddBoat.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmBoats.resx">
+      <DependentUpon>frmBoats.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ucRptTimbebook.resx">
+      <DependentUpon>ucRptTimbebook.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ucVessel.resx">
+      <DependentUpon>ucVessel.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmSched.resx">
+      <DependentUpon>frmSched.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmAlly.resx">
+      <DependentUpon>frmAlly.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ucNote.resx">
+      <DependentUpon>ucNote.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ucStat.resx">
+      <DependentUpon>ucStat.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ucYear.resx">
+      <DependentUpon>ucYear.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ucHead.resx">
+      <DependentUpon>ucHead.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ucList.resx">
+      <DependentUpon>ucList.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ucMonth.resx">
+      <DependentUpon>ucMonth.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmApp.resx">
+      <DependentUpon>frmApp.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ucAlley.resx">
+      <DependentUpon>ucAlley.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ucDays.resx">
+      <DependentUpon>ucDays.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ucEmp.resx">
+      <DependentUpon>ucEmp.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ucNewEmp.resx">
+      <DependentUpon>ucNewEmp.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ucWeek.resx">
+      <DependentUpon>ucWeek.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ucAM.resx">
+      <DependentUpon>ucAM.cs</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\mdlAllyKE\mdlAllyKE.csproj">
+      <Project>{37CAA6A7-C6FB-4A90-B5EB-E02B3B16E860}</Project>
+      <Name>mdlAllyKE</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\viewLogKE\viewLogKE.csproj">
+      <Project>{D1CA455F-A867-4A8D-A14E-8121EF2607F6}</Project>
+      <Name>viewLogKE</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\player_time.ico" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

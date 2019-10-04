@@ -1,0 +1,140 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{9B640A05-44F0-46AA-8E44-86EDEEFAE29B}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>letStaff</RootNamespace>
+    <AssemblyName>letStaff</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <TargetFrameworkProfile>Client</TargetFrameworkProfile>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>..\..\..\_deploy\_HODDER_PAYROLL\letStaff\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.DirectoryServices" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="frmStaff.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmStaff.Designer.cs">
+      <DependentUpon>frmStaff.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GapLib.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="ucHour.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ucHour.Designer.cs">
+      <DependentUpon>ucHour.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ucNote.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ucNote.Designer.cs">
+      <DependentUpon>ucNote.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ucPaycodes.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ucPaycodes.Designer.cs">
+      <DependentUpon>ucPaycodes.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ucSalary.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ucSalary.Designer.cs">
+      <DependentUpon>ucSalary.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="frmStaff.resx">
+      <DependentUpon>frmStaff.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="ucHour.resx">
+      <DependentUpon>ucHour.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ucNote.resx">
+      <DependentUpon>ucNote.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ucPaycodes.resx">
+      <DependentUpon>ucPaycodes.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ucSalary.resx">
+      <DependentUpon>ucSalary.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="App.config">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\mdlAnnal\mdlAnnal.csproj">
+      <Project>{5459D8AD-AA00-4615-A272-CF2FE2699154}</Project>
+      <Name>mdlAnnal</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <PropertyGroup>
+    <PostBuildEvent>XCOPY $(TargetDir)*.exe  C:\GitHub\APPS.sky\GarNet\GarNet\bin\Debug\TugIT\ /Y
+XCOPY $(TargetDir)*.config  C:\GitHub\APPS.sky\GarNet\GarNet\bin\Debug\TugIT\ /Y
+XCOPY $(TargetDir)*.exe  C:\GitHub\APPS.sky\GarNet\GarNet\bin\Release\TugIT\ /Y
+XCOPY $(TargetDir)*.config  C:\GitHub\APPS.sky\GarNet\GarNet\bin\Release\TugIT\ /Y</PostBuildEvent>
+  </PropertyGroup>
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
